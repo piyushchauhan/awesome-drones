@@ -4,12 +4,12 @@ A curated list of awesome drones, builds, kits, DIYs, resources and other relate
 
 ## Table of Contents
 
-* [Hardware](#Hardware)
+* [Builds and Hardware](#Builds-and-Hardware)
 * [First Person View-FPV](#First-Person-View-FPV)
 * [Blogs](#Blogs)
 * [Unmanned Aerial Vehicle-UAV](#Unmanned-Aerial-Vehicle-UAV)
 
-## Hardware
+## Builds and Hardware
 
 ## First Person View-FPV
 ### Commercial FPVs
