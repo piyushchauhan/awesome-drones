@@ -16,5 +16,6 @@ A curated list of awesome drones, builds, kits, DIYs, resources and other relate
 ### DIY FPVs
 
 ## Blogs
+* [FPV Pilot Charpu](https://www.youtube.com/user/CharpuFPV/videos)
 
 ## Unmanned-Aerial-Vehicle-UAV
