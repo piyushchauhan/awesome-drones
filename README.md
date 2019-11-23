@@ -6,9 +6,10 @@ A curated list of awesome drones, builds, kits, DIYs, resources and other relate
 
 * [Builds and Hardware](#Builds-and-Hardware)
 * [First Person View-FPV](#First-Person-View-FPV)
-* [Blogs](#Blogs)
 * [Unmanned Aerial Vehicle-UAV](#Unmanned-Aerial-Vehicle-UAV)
 * [Tools](#Tools)
+* [Blogs](#Blogs)
+* [News](#News)
 
 ## Builds and Hardware
 
@@ -23,3 +24,7 @@ A curated list of awesome drones, builds, kits, DIYs, resources and other relate
 ## Tools
 ### Simulator
 - [Mircosot AirSim](https://github.com/microsoft/AirSim)
+
+
+## News
+- [sUAV News](https://www.suasnews.com/)
