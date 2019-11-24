@@ -2,6 +2,9 @@
 
 A curated list of awesome drones, builds, kits, DIYs, resources and other related things.
 
+## Contributing
+Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
+
 ## Table of Contents
 
 * [Builds and Hardware](#Builds-and-Hardware)
